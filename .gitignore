@@ -17,3 +17,4 @@ dim_date.csv
 *.db
 alerts.log
 *.duckdb
+demo.duckdb
