@@ -15,3 +15,5 @@ tidy.csv
 flat/
 dim_date.csv
 *.db
+alerts.log
+*.duckdb
